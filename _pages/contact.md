@@ -30,5 +30,5 @@ title: "Un projet, une question ?"
     <textarea name="message" rows="10"></textarea>
   </label>
 
-  <button type="submit">Send</button>
+  <button type="submit">Envoyer</button>
 </form>
