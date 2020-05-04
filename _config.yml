@@ -60,36 +60,27 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Développeur Freelance"
   links:
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    #  url: "https://"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/avrelaun"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/avrelaun"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/avrelaun"
-      #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/avrelaun"
 
 footer:
   links:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/avrelaun"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/avrelaun"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/avrelaun"
-      #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/avrelaun"
 
 defaults:
   # _posts
