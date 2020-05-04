@@ -108,3 +108,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-165474342-1"
